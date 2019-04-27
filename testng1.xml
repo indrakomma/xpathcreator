@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="listners">
+<listeners>
+<listener class-name="practicetestng.listener"></listener>
+</listeners>
+<classes>
+<class name="practicetestng.tc1"/>
+<class name="practicetestng.tc2"/>
+
+</classes>
+</test> <!-- Test -->
+</suite> <!-- listners -->
